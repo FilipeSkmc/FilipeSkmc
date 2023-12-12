@@ -1,8 +1,8 @@
 # Olá! Eu sou Filipe 👋
 
-🚀 Olá! Sou um entusiasta da tecnologia, instrutor e programador dedicado a guiar novos aprendizes no mundo da programação. Minha expertise está no Front-end, com foco especial em React e Typescript. Além disso, já compartilhei conhecimentos em tecnologias do Back-end, como PHP e MySQL.
+🚀 Olá! Sou um entusiasta da tecnologia, instrutor e programador dedicado a guiar novos aprendizes no mundo da programação. Meu foco está no Front-end, com foco especial em React e Typescript. Além disso, já compartilhei conhecimentos em tecnologias do Back-end, como PHP e MySQL.
 
-centemente, conduzi cursos abrangentes no universo do CRM Salesforce, abordando tanto a administração da ferramenta quanto o desenvolvimento avançado com Apex, SOQL, SOSL, Triggers e Lightning Web Components (LWC). Vamos juntos explorar e desvendar os fascinantes caminhos da programação! 👨‍💻✨
+Recentemente, conduzi cursos abrangentes no universo do CRM Salesforce, abordando tanto a administração da ferramenta quanto o desenvolvimento avançado com Apex, SOQL, SOSL, Triggers e Lightning Web Components (LWC). Vamos juntos explorar e desvendar os fascinantes caminhos da programação! 👨‍💻✨
 
 ## 🤝 Vamos Conectar?
 
